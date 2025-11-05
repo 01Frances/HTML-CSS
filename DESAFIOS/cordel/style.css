@@ -14,8 +14,9 @@
     font-weight: bolder;
     text-align: center;
     color: white;
-    font-size: 7vw;  
+    font-size: 10vw;  
     letter-spacing: 3px;
+    font-variant: small-caps;
 }
 
 .b1>p{
